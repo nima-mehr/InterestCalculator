@@ -1,2 +1,2 @@
 # InterestCalculator
-there are issues must be solved as soon as possible.
+A simple calculator, it was my web development essentials course final project.
