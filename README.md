@@ -1,2 +1,2 @@
 # InterestCalculator
-It was my web development essentials course final project. <br>
+It was my final project for web development IBM course. <br>
